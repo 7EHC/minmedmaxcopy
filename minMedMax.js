@@ -29,3 +29,4 @@ module.exports = minMedMax
 // console.log(minMedMax(-5,0,10))
 // console.log(minMedMax(5,1,1))
 // console.log(minMedMax(-1,-8,0))
+//
